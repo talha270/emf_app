@@ -43,9 +43,9 @@ dependencies:
   #this is for get x,y,z values in flutter
   vector_math:
   #this is for gauge meter in flutter
-  syncfusion_flutter_gauges:
+  syncfusion_flutter_gauges: ^28.2.3
   #this is for charts in flutter
-  syncfusion_flutter_charts:
+  syncfusion_flutter_charts: ^28.2.3
 
 dev_dependencies:
   flutter_test:
